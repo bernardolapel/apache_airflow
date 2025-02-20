@@ -57,7 +57,7 @@ export AIRFLOW_HOME=~/airflow
 
 Initialize the database:
 
-airflow db init
+airflow db init (airflow db migrate)
 
 Step 6: Start Airflow
 
